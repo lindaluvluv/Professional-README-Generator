@@ -1,35 +1,34 @@
-# aoef
+# Professional README Generator
     
-    ## Licensing:
-    [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://opensource.org/licenses/Apache)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)    
     
-    ## Table of Contents 
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contribution](#contribution)
-    - [Testing](#testing)
-    - [Additional Info](#additional-info)
+## Table of Contents 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Testing](#testing)
+- [Additional Info](#additional-info)
    
-    ## Description:
-    aweifuh
+## Description:
+This is a README.md generator that automatically generates the content you need for README.md. All you need to do is to answer the questions in the terminal. 
     
-    ## Installation:
-    awefihu
+## Installation:
+Inquirer
     
-    ## Usage:
-    awefh
+## Usage:
+Not Sure
     
     
-    ## Contribution:
-    aweifuh
+## Contribution:
+Not Sure
    
-    ## Testing:
-    awe9f
+## Testing:
+N/A
 
-    ## License:
-    Apache
+## License:
+Mozilla
 
-    ## Additional Info:
-    - Github Profile: [awehuf](https://github.com/awehuf)
-    - Shoot Me an Email @ awe9hf 
+## Additional Info:
+- Github Profile: [lindaluvluv](https://github.com/lindaluvluv)
+- Shoot Me an Email @ f.linda97@gmail.com 
