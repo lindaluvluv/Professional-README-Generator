@@ -34,6 +34,7 @@ ${data.licensing}
 ## Additional Info:
 - Github Profile: [${data.github}](https://github.com/${data.github})
 - Shoot Me an Email @ ${data.email} `;
+
   }
   
   module.exports = generateMarkdown;
